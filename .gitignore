@@ -1,0 +1,5 @@
+# Nested app repositories are cloned & managed by setup_mac.sh / setup_windows.ps1
+apps/
+.DS_Store
+Thumbs.db
+*.log

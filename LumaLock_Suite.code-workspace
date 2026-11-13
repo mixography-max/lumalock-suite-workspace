@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "name": "📋 Suite Root (Handover & Docs)",
+      "path": "."
+    },
+    {
+      "name": "1️⃣ LumaLock Pro (Retouch - v1.0.0 Done)",
+      "path": "apps/lumalock-pro"
+    },
+    {
+      "name": "2️⃣ OptiLock Pro / はむはむ画像圧縮くん (Compression)",
+      "path": "apps/kantan-image-compression"
+    },
+    {
+      "name": "3️⃣ ArcLock Pro / かんたんZIP圧縮くん (Archive)",
+      "path": "apps/KantanZIP"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.DS_Store": true,
+      "**/node_modules": true,
+      "**/src-tauri/target": true
+    },
+    "typescript.tsdk": "apps/lumalock-pro/node_modules/typescript/lib"
+  }
+}
